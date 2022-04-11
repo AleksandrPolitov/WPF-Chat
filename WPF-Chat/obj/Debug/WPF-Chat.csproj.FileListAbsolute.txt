@@ -1,0 +1,15 @@
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\bin\Debug\WPF-Chat.exe.config
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\bin\Debug\WPF-Chat.exe
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\bin\Debug\WPF-Chat.pdb
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat.csproj.AssemblyReference.cache
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\MainWindow.g.cs
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\App.g.cs
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat_MarkupCompile.cache
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat_MarkupCompile.lref
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\MainWindow.baml
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat.g.resources
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF_Chat.Properties.Resources.resources
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat.csproj.GenerateResource.cache
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat.csproj.CoreCompileInputs.cache
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat.exe
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat.pdb
