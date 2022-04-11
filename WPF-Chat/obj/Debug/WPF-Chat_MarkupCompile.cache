@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\App.xaml
-11151548125
+3-926308343
 
-5-2017746502
+7100599438
 13152784993
-MainWindow.xaml;
+Windows\LoginWindow.xaml;Windows\MainWindow.xaml;Windows\RegisterWindow.xaml;
 
-False
+True
 
