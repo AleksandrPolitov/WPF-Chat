@@ -17,3 +17,9 @@ C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat.csproj.Generate
 C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat.csproj.CoreCompileInputs.cache
 C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat.exe
 C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat.pdb
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\bin\Debug\EntityFramework.dll
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\bin\Debug\EntityFramework.xml
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat_Content.g.cs
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat.csproj.CopyComplete

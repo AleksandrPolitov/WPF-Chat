@@ -31,12 +31,12 @@
         <TextBox x:Name="txtEmail" Grid.Column="3" Height="25" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Bottom"/>
         <Label Content="Username:" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Top" Height="25" Width="66"/>
         <TextBox x:Name="txtUsername" Grid.Column="3" Grid.Row="3" TextWrapping="Wrap" Height="25" VerticalAlignment="Bottom"/>
-        <Button x:Name="btnCreate" Content="Create account" Grid.Column="3" Grid.Row="9" VerticalAlignment="Bottom" Height="25"/>
-        <Label Content="Password:" Grid.Column="1" Grid.Row="5" VerticalAlignment="Bottom" Margin="0,0,94,0" Height="25"/>
+        <Label Content="Password:" Grid.Column="1" Grid.Row="5" VerticalAlignment="Bottom" Height="25" HorizontalAlignment="Left" Width="62"/>
         <TextBox x:Name="txtPassword" Grid.Column="3" Height="25" Grid.Row="5" TextWrapping="Wrap" VerticalAlignment="Bottom"/>
-        <Button x:Name="btnBack" Content="Back to login" Grid.Column="1" Grid.Row="9" VerticalAlignment="Top" Height="25" Click="btnBack_Click"/>
         <Label Content="Confirm password:" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="7" VerticalAlignment="Top" Height="25" Width="109"/>
         <TextBox x:Name="txtPasswordConfirm" Grid.Column="3" Height="25" Grid.Row="7" TextWrapping="Wrap" VerticalAlignment="Bottom"/>
+        <Button x:Name="btnBack" Content="Back to login" Grid.Column="1" Grid.Row="9" VerticalAlignment="Top" Height="25" Click="btnBack_Click"/>
+        <Button x:Name="btnCreate" Content="Create account" Grid.Column="3" Grid.Row="9" VerticalAlignment="Bottom" Height="25" Click="btnCreate_Click"/>
 
     </Grid>
 </Window>
