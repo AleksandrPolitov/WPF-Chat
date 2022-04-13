@@ -26,9 +26,9 @@
             <ColumnDefinition Width="10"/>
         </Grid.ColumnDefinitions>
         <Label Content="Email or username:" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top"/>
-        <TextBox x:Name="txtEmailOrUser" Grid.Column="3" Height="25" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Margin="0,0,10,0" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txtEmailOrUser" Grid.Column="3" Height="25" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Margin="0,0,10,0" Grid.ColumnSpan="2" Text="admin"/>
         <Label Content="Password:" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Top"/>
-        <TextBox x:Name="txtPassword" Grid.Column="3" Height="25" Grid.Row="3" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtPassword" Grid.Column="3" Height="25" Grid.Row="3" TextWrapping="Wrap" VerticalAlignment="Top" Text="admin"/>
         <CheckBox x:Name="cbRemember" Content="Remember login(TODO)" Grid.Column="3" Grid.Row="5" VerticalAlignment="Top" Margin="0,6,10,0"/>
         <Label x:Name="lblForgot" Content="Forgot password?(TODO)" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="5" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FFFFBF4F"/>
         <Button x:Name="btnRegister" Content="Register" Grid.Column="1" Grid.Row="7" VerticalAlignment="Top" Height="25" Click="btnRegister_Click"/>

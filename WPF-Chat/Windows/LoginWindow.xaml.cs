@@ -37,7 +37,7 @@ namespace WPF_Chat.Windows
             string errStr = "";
 
             string username = txtEmailOrUser.Text,
-                   password = txtEmailOrUser.Text;
+                   password = txtPassword.Text;
 
             if (username.Length <= 0)
                 errStr += "Username is not valid\n";
@@ -57,6 +57,9 @@ namespace WPF_Chat.Windows
             {
                 case LoginClass.LOGIN_RES.SUCCESS:
                     MessageBox.Show("Login successfull, your user_id is: " + lc.user_id);
+                    var mainWND = new MainWindow(lc);
+                    mainWND.Show();
+                    this.Close();
                     break;
                 case LoginClass.LOGIN_RES.FAIL:
                     MessageBox.Show("Login failed, most likely you entered username or password wrong.");

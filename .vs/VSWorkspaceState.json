@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Database",
+    "\\WPF-Chat",
+    "\\WPF-Chat\\Windows"
   ],
-  "SelectedNode": "\\WPF-Chat.sln",
+  "SelectedNode": "\\WPF-Chat\\WPF-Chat.sln",
   "PreviewInSolutionExplorer": false
 }

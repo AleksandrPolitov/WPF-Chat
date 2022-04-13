@@ -8,13 +8,9 @@ CREATE TABLE [users] (
 
 CREATE TABLE [conversations] (
     id int IDENTITY(1, 1) NOT NULL PRIMARY KEY,
+    first_participant INT NOT NULL REFERENCES [users] (id),
+    second_participant INT NOT NULL REFERENCES [users] (id),
     last_message_id INT
-);
-
-CREATE TABLE [participants] (
-    user_id INT NOT NULL REFERENCES users ON DELETE CASCADE,
-    conversation_id INT NOT NULL REFERENCES conversations ON DELETE CASCADE,
-    PRIMARY KEY (user_id, conversation_id)
 );
 
 
@@ -26,12 +22,3 @@ CREATE TABLE [messages] (
     created_at datetime NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-
-
-
-
-
-
-ALTER TABLE dbo.participants
-    ADD CONSTRAINT [FK_participants_conversation_id] 
-FOREIGN KEY ([conversation_id]) REFERENCES dbo.[conversations] ([id]);

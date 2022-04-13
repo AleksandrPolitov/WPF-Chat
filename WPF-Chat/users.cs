@@ -18,7 +18,8 @@ namespace WPF_Chat
         public users()
         {
             this.messages = new HashSet<messages>();
-            this.conversations = new HashSet<conversations>();
+            this.conversations1 = new HashSet<conversations>();
+            this.conversations11 = new HashSet<conversations>();
         }
     
         public int id { get; set; }
@@ -30,6 +31,8 @@ namespace WPF_Chat
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<messages> messages { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<conversations> conversations { get; set; }
+        public virtual ICollection<conversations> conversations1 { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<conversations> conversations11 { get; set; }
     }
 }

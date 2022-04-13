@@ -62,5 +62,12 @@ namespace WPF_Chat.Classes
             else 
                 return REGISTER_RES.ALREADY_EXISTS;
         }
+
+        public users getCurrentUser()
+        {
+            return database.users.Where(u => u.id == this.user_id).FirstOrDefault();
+        }
+
+
     }
 }

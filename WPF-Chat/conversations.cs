@@ -18,15 +18,16 @@ namespace WPF_Chat
         public conversations()
         {
             this.messages = new HashSet<messages>();
-            this.users = new HashSet<users>();
         }
     
         public int id { get; set; }
         public Nullable<int> last_message_id { get; set; }
+        public int first_participant { get; set; }
+        public int second_participant { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<messages> messages { get; set; }
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<users> users { get; set; }
+        public virtual users users1 { get; set; }
+        public virtual users users11 { get; set; }
     }
 }

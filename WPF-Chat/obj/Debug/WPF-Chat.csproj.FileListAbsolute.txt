@@ -4,7 +4,6 @@ C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\Windows\RegisterWindow.g
 C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\App.g.cs
 C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat_MarkupCompile.cache
 C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat_MarkupCompile.lref
-C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat.csproj.AssemblyReference.cache
 C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\bin\Debug\WPF-Chat.exe.config
 C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\bin\Debug\WPF-Chat.exe
 C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\bin\Debug\WPF-Chat.pdb
@@ -23,3 +22,6 @@ C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\bin\Debug\EntityFramework.xml
 C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat_Content.g.cs
 C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat.csproj.CopyComplete
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\Windows\CreateNewConversationWindow.g.cs
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\Windows\CreateNewConversationWindow.baml
+C:\Users\be_ha\source\repos\WPF-Chat\WPF-Chat\obj\Debug\WPF-Chat.csproj.AssemblyReference.cache
